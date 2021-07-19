@@ -1,0 +1,6 @@
+projectKey=ETSTodoApp-ReactNative
+serverUrl=http://localhost:9000
+serverVersion=9.0.0.45539
+dashboardUrl=http://localhost:9000/dashboard?id=ETSTodoApp-ReactNative
+ceTaskId=AXqe9ThcvodLtiKSWhSa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXqe9ThcvodLtiKSWhSa
