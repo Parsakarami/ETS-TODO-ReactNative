@@ -18,7 +18,7 @@
 
 ```shell
 git clone git@github.com:srdjanprpa/FormulaOne.git
-cd FormulaOne
+cd ETSTodoApp
 npm install
 ```
 
